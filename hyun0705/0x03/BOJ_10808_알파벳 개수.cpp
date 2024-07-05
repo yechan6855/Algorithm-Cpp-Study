@@ -9,6 +9,7 @@ int main()
 	string str;
 	cin >> str;
 
+
 	for (char a = 'a'; a <= 'z'; a++)
 	{
 		int cnt = 0;
