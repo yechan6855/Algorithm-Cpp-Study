@@ -13,4 +13,4 @@ int main() {
         cout << count[i] << '\n';
     }
     return 0;
-}
+} 
